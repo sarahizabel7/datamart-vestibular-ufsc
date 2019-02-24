@@ -1,5 +1,6 @@
 # datamart-vestibular-ufsc
-Data Mart, incluindo ETL e Front, feito em cima do banco de dados do vestibular da UFSC
+
+Data Mart, including ETL and Front, made up of the vestibular database of UFSC
 ___
 
 ## Resultados

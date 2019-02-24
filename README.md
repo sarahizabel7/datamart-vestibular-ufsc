@@ -1,6 +1,6 @@
 # datamart-vestibular-ufsc
 
-Data Mart, including ETL and Front, made up of the vestibular database of UFSC
+Data Mart (including ETL and Front) made from the college entrance examination database of Federal University of Santa Catarina.
 ___
 
 ## Resultados
